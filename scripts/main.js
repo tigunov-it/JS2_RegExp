@@ -61,5 +61,3 @@ document.getElementById('button').addEventListener('click', function (event){
         document.getElementById('email').classList.add('error');
     }
 })
-
-
